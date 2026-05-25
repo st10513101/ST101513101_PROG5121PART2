@@ -9,5 +9,5 @@ open the project in NetBeans
 Right click on the project and select clean and build
 right click on the project and select run
 
-# how to ru test
+# how to run test
 right click on the project selct test
